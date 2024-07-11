@@ -1,0 +1,14 @@
+2024-07-11 15:00:25,037:INFO:Application started.
+2024-07-11 15:00:25,345:INFO:Successfully connected to the database
+2024-07-11 15:00:25,354:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-07-11 15:00:25,378:INFO:Transaction data fetched successfully.
+2024-07-11 15:00:25,801:INFO:Application ended.

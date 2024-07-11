@@ -1,0 +1,2318 @@
+2024-06-07 01:19:44,243:INFO:Application started.
+2024-06-07 01:19:44,616:INFO:Successfully connected to the database
+2024-06-07 01:19:44,616:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 01:19:44,622:INFO:Transaction data fetched successfully.
+2024-06-07 01:19:44,834:INFO:Application ended.
+2024-06-07 01:20:15,109:INFO:Application started.
+2024-06-07 01:20:15,563:INFO:Successfully connected to the database
+2024-06-07 01:20:15,564:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 01:20:15,568:INFO:Transaction data fetched successfully.
+2024-06-07 01:20:15,795:INFO:Application ended.
+2024-06-07 12:11:25,520:INFO:Application started.
+2024-06-07 12:11:26,939:INFO:Successfully connected to the database
+2024-06-07 12:11:26,940:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:11:26,963:INFO:Transaction data fetched successfully.
+2024-06-07 12:11:27,850:INFO:Application ended.
+2024-06-07 12:11:47,842:INFO:Application started.
+2024-06-07 12:11:47,846:INFO:Successfully connected to the database
+2024-06-07 12:11:47,848:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:11:47,858:INFO:Transaction data fetched successfully.
+2024-06-07 12:11:47,977:INFO:Application ended.
+2024-06-07 12:11:53,573:INFO:Application started.
+2024-06-07 12:11:53,584:INFO:Successfully connected to the database
+2024-06-07 12:11:53,585:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:11:53,611:INFO:Transaction data fetched successfully.
+2024-06-07 12:11:53,710:INFO:Application ended.
+2024-06-07 12:12:00,996:INFO:Application started.
+2024-06-07 12:12:00,999:INFO:Successfully connected to the database
+2024-06-07 12:12:01,001:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:12:01,013:INFO:Transaction data fetched successfully.
+2024-06-07 12:12:01,106:INFO:Application ended.
+2024-06-07 12:12:09,411:INFO:Application started.
+2024-06-07 12:12:09,413:INFO:Successfully connected to the database
+2024-06-07 12:12:09,416:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:12:09,445:INFO:Expense added to database successfully.
+2024-06-07 12:12:09,450:INFO:Transaction data fetched successfully.
+2024-06-07 12:12:09,545:INFO:Application ended.
+2024-06-07 12:12:39,576:INFO:Application started.
+2024-06-07 12:12:39,582:INFO:Successfully connected to the database
+2024-06-07 12:12:39,583:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:12:39,603:INFO:Transaction data fetched successfully.
+2024-06-07 12:12:39,724:INFO:Application ended.
+2024-06-07 12:12:58,363:INFO:Application started.
+2024-06-07 12:12:58,373:INFO:Successfully connected to the database
+2024-06-07 12:12:58,375:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:12:58,388:INFO:Transaction data fetched successfully.
+2024-06-07 12:12:58,506:INFO:Data exported successfully to transactions.csv
+2024-06-07 12:12:58,508:INFO:Application ended.
+2024-06-07 12:19:31,924:INFO:Application started.
+2024-06-07 12:19:32,376:INFO:Successfully connected to the database
+2024-06-07 12:19:32,377:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:19:32,386:INFO:Transaction data fetched successfully.
+2024-06-07 12:19:32,713:INFO:Application started.
+2024-06-07 12:19:32,715:INFO:Successfully connected to the database
+2024-06-07 12:19:32,716:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:19:32,722:INFO:Transaction data fetched successfully.
+2024-06-07 12:19:32,865:INFO:Application ended.
+2024-06-07 12:19:36,845:INFO:Application started.
+2024-06-07 12:19:36,849:INFO:Successfully connected to the database
+2024-06-07 12:19:36,850:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:19:36,860:INFO:Transaction data fetched successfully.
+2024-06-07 12:19:36,960:INFO:Application ended.
+2024-06-07 12:20:47,901:INFO:Application started.
+2024-06-07 12:20:49,105:INFO:Successfully connected to the database
+2024-06-07 12:20:49,106:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:20:49,125:INFO:Transaction data fetched successfully.
+2024-06-07 12:20:49,816:INFO:Application ended.
+2024-06-07 12:21:19,768:INFO:Application started.
+2024-06-07 12:21:19,772:INFO:Successfully connected to the database
+2024-06-07 12:21:19,773:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:21:19,836:INFO:Transaction data fetched successfully.
+2024-06-07 12:21:19,930:INFO:Application ended.
+2024-06-07 12:21:25,019:INFO:Application started.
+2024-06-07 12:21:25,023:INFO:Successfully connected to the database
+2024-06-07 12:21:25,023:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:21:25,034:INFO:Transaction data fetched successfully.
+2024-06-07 12:21:25,128:INFO:Application ended.
+2024-06-07 12:21:27,507:INFO:Application started.
+2024-06-07 12:21:27,511:INFO:Successfully connected to the database
+2024-06-07 12:21:27,513:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:21:27,523:INFO:Transaction data fetched successfully.
+2024-06-07 12:21:27,613:INFO:Application ended.
+2024-06-07 12:21:40,050:INFO:Application started.
+2024-06-07 12:21:40,055:INFO:Successfully connected to the database
+2024-06-07 12:21:40,056:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:21:40,079:INFO:Transaction data fetched successfully.
+2024-06-07 12:21:40,251:INFO:Application started.
+2024-06-07 12:21:40,257:INFO:Successfully connected to the database
+2024-06-07 12:21:40,258:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:21:40,302:INFO:Income added to database successfully.
+2024-06-07 12:21:40,308:INFO:Transaction data fetched successfully.
+2024-06-07 12:21:40,421:INFO:Application ended.
+2024-06-07 12:21:48,158:INFO:Application started.
+2024-06-07 12:21:48,162:INFO:Successfully connected to the database
+2024-06-07 12:21:48,163:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:21:48,179:INFO:Transaction data fetched successfully.
+2024-06-07 12:21:48,297:INFO:Application ended.
+2024-06-07 12:21:55,925:INFO:Application started.
+2024-06-07 12:21:55,940:INFO:Successfully connected to the database
+2024-06-07 12:21:55,942:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:21:55,956:INFO:Transaction data fetched successfully.
+2024-06-07 12:21:56,046:INFO:Application ended.
+2024-06-07 12:21:57,593:INFO:Application started.
+2024-06-07 12:21:57,597:INFO:Successfully connected to the database
+2024-06-07 12:21:57,598:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:21:57,607:INFO:Transaction data fetched successfully.
+2024-06-07 12:21:57,704:INFO:Application ended.
+2024-06-07 12:22:00,251:INFO:Application started.
+2024-06-07 12:22:00,254:INFO:Successfully connected to the database
+2024-06-07 12:22:00,256:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:22:00,271:INFO:Transaction data fetched successfully.
+2024-06-07 12:22:00,368:INFO:Application ended.
+2024-06-07 12:22:05,884:INFO:Application started.
+2024-06-07 12:22:05,886:INFO:Successfully connected to the database
+2024-06-07 12:22:05,887:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:22:05,893:INFO:Transaction data fetched successfully.
+2024-06-07 12:22:05,980:INFO:Application ended.
+2024-06-07 12:22:11,100:INFO:Application started.
+2024-06-07 12:22:11,104:INFO:Successfully connected to the database
+2024-06-07 12:22:11,105:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:22:11,119:INFO:Transaction data fetched successfully.
+2024-06-07 12:22:11,207:INFO:Application ended.
+2024-06-07 12:22:17,986:INFO:Application started.
+2024-06-07 12:22:17,991:INFO:Successfully connected to the database
+2024-06-07 12:22:17,991:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:22:18,002:INFO:Transaction data fetched successfully.
+2024-06-07 12:22:18,090:INFO:Application ended.
+2024-06-07 12:22:27,415:INFO:Application started.
+2024-06-07 12:22:27,418:INFO:Successfully connected to the database
+2024-06-07 12:22:27,419:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:22:27,430:INFO:Expense added to database successfully.
+2024-06-07 12:22:27,435:INFO:Transaction data fetched successfully.
+2024-06-07 12:22:27,511:INFO:Application ended.
+2024-06-07 12:23:00,972:INFO:Application started.
+2024-06-07 12:23:00,978:INFO:Successfully connected to the database
+2024-06-07 12:23:00,979:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:23:00,991:INFO:Transaction data fetched successfully.
+2024-06-07 12:23:01,115:INFO:Application ended.
+2024-06-07 12:32:07,234:INFO:Application started.
+2024-06-07 12:32:07,236:INFO:Successfully connected to the database
+2024-06-07 12:32:07,236:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:32:07,242:INFO:Transaction data fetched successfully.
+2024-06-07 12:32:07,277:INFO:Application ended.
+2024-06-07 12:35:32,239:INFO:Application started.
+2024-06-07 12:35:35,112:INFO:Successfully connected to the database
+2024-06-07 12:35:35,118:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:35:35,160:INFO:Transaction data fetched successfully.
+2024-06-07 12:35:36,648:INFO:Application ended.
+2024-06-07 12:35:57,079:INFO:Application started.
+2024-06-07 12:35:57,085:INFO:Successfully connected to the database
+2024-06-07 12:35:57,089:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:35:57,110:INFO:Transaction data fetched successfully.
+2024-06-07 12:35:57,295:INFO:Application ended.
+2024-06-07 12:35:57,885:INFO:Application started.
+2024-06-07 12:35:57,891:INFO:Successfully connected to the database
+2024-06-07 12:35:57,893:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:35:57,912:INFO:Transaction data fetched successfully.
+2024-06-07 12:35:58,095:INFO:Application ended.
+2024-06-07 12:36:06,727:INFO:Application started.
+2024-06-07 12:36:06,733:INFO:Successfully connected to the database
+2024-06-07 12:36:06,736:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:36:06,757:INFO:Transaction data fetched successfully.
+2024-06-07 12:36:06,934:INFO:Application ended.
+2024-06-07 12:36:17,547:INFO:Application started.
+2024-06-07 12:36:17,555:INFO:Successfully connected to the database
+2024-06-07 12:36:17,560:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:36:17,586:INFO:Transaction data fetched successfully.
+2024-06-07 12:36:17,775:INFO:Application ended.
+2024-06-07 12:36:21,563:INFO:Application started.
+2024-06-07 12:36:21,569:INFO:Successfully connected to the database
+2024-06-07 12:36:21,571:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:36:21,590:INFO:Transaction data fetched successfully.
+2024-06-07 12:36:21,779:INFO:Application ended.
+2024-06-07 12:36:31,923:INFO:Application started.
+2024-06-07 12:36:31,937:INFO:Successfully connected to the database
+2024-06-07 12:36:31,941:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:36:31,972:INFO:Transaction data fetched successfully.
+2024-06-07 12:36:32,144:INFO:Application ended.
+2024-06-07 12:36:36,619:INFO:Application started.
+2024-06-07 12:36:36,626:INFO:Successfully connected to the database
+2024-06-07 12:36:36,629:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:36:36,650:INFO:Transaction data fetched successfully.
+2024-06-07 12:36:36,856:INFO:Application ended.
+2024-06-07 12:36:40,578:INFO:Application started.
+2024-06-07 12:36:40,584:INFO:Successfully connected to the database
+2024-06-07 12:36:40,587:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:36:40,602:INFO:Transaction data fetched successfully.
+2024-06-07 12:36:40,779:INFO:Application ended.
+2024-06-07 12:36:49,057:INFO:Application started.
+2024-06-07 12:36:49,062:INFO:Successfully connected to the database
+2024-06-07 12:36:49,065:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:36:49,096:INFO:Income added to database successfully.
+2024-06-07 12:36:49,107:INFO:Transaction data fetched successfully.
+2024-06-07 12:36:49,319:INFO:Application ended.
+2024-06-07 12:37:07,418:INFO:Application started.
+2024-06-07 12:37:07,425:INFO:Successfully connected to the database
+2024-06-07 12:37:07,426:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:37:07,445:INFO:Transaction data fetched successfully.
+2024-06-07 12:37:07,605:INFO:Application ended.
+2024-06-07 12:37:15,892:INFO:Application started.
+2024-06-07 12:37:15,899:INFO:Successfully connected to the database
+2024-06-07 12:37:15,902:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:37:15,919:INFO:Transaction data fetched successfully.
+2024-06-07 12:37:16,118:INFO:Application ended.
+2024-06-07 12:37:18,322:INFO:Application started.
+2024-06-07 12:37:18,328:INFO:Successfully connected to the database
+2024-06-07 12:37:18,332:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:37:18,358:INFO:Transaction data fetched successfully.
+2024-06-07 12:37:18,537:INFO:Application ended.
+2024-06-07 12:37:20,961:INFO:Application started.
+2024-06-07 12:37:20,968:INFO:Successfully connected to the database
+2024-06-07 12:37:20,972:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 12:37:20,996:INFO:Expense added to database successfully.
+2024-06-07 12:37:21,008:INFO:Transaction data fetched successfully.
+2024-06-07 12:37:21,211:INFO:Application ended.
+2024-06-07 13:08:03,811:INFO:Application started.
+2024-06-07 13:08:03,825:INFO:Successfully connected to the database
+2024-06-07 13:08:03,825:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:08:03,860:INFO:Transaction data fetched successfully.
+2024-06-07 13:08:03,969:INFO:Application started.
+2024-06-07 13:08:03,969:INFO:Successfully connected to the database
+2024-06-07 13:08:03,985:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:08:04,000:INFO:Transaction data fetched successfully.
+2024-06-07 13:08:04,016:INFO:Application ended.
+2024-06-07 13:08:04,161:INFO:Application ended.
+2024-06-07 13:17:43,000:INFO:Application started.
+2024-06-07 13:17:43,003:INFO:Successfully connected to the database
+2024-06-07 13:17:43,003:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:17:43,011:INFO:Transaction data fetched successfully.
+2024-06-07 13:17:43,019:INFO:Application started.
+2024-06-07 13:17:43,022:INFO:Successfully connected to the database
+2024-06-07 13:17:43,023:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:17:43,032:INFO:Transaction data fetched successfully.
+2024-06-07 13:17:43,061:INFO:Application ended.
+2024-06-07 13:17:43,088:INFO:Application ended.
+2024-06-07 13:35:57,444:INFO:Application started.
+2024-06-07 13:35:57,445:INFO:Successfully connected to the database
+2024-06-07 13:35:57,446:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:35:57,455:INFO:Transaction data fetched successfully.
+2024-06-07 13:35:57,499:INFO:Application ended.
+2024-06-07 13:35:58,689:INFO:Application started.
+2024-06-07 13:35:58,691:INFO:Successfully connected to the database
+2024-06-07 13:35:58,692:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:35:58,706:INFO:Transaction data fetched successfully.
+2024-06-07 13:35:58,753:INFO:Application ended.
+2024-06-07 13:35:59,843:INFO:Application started.
+2024-06-07 13:35:59,845:INFO:Successfully connected to the database
+2024-06-07 13:35:59,845:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:35:59,855:INFO:Transaction data fetched successfully.
+2024-06-07 13:35:59,927:INFO:Application ended.
+2024-06-07 13:36:31,802:INFO:Application started.
+2024-06-07 13:36:32,426:INFO:Successfully connected to the database
+2024-06-07 13:36:32,427:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:36:32,436:INFO:Transaction data fetched successfully.
+2024-06-07 13:36:32,956:INFO:Application ended.
+2024-06-07 13:36:52,577:INFO:Application started.
+2024-06-07 13:36:52,581:INFO:Successfully connected to the database
+2024-06-07 13:36:52,584:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:36:52,601:INFO:Transaction data fetched successfully.
+2024-06-07 13:36:52,770:INFO:Application ended.
+2024-06-07 13:36:53,547:INFO:Application started.
+2024-06-07 13:36:53,553:INFO:Successfully connected to the database
+2024-06-07 13:36:53,556:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:36:53,574:INFO:Transaction data fetched successfully.
+2024-06-07 13:36:53,701:INFO:Application ended.
+2024-06-07 13:36:54,180:INFO:Application started.
+2024-06-07 13:36:54,185:INFO:Successfully connected to the database
+2024-06-07 13:36:54,187:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:36:54,208:INFO:Transaction data fetched successfully.
+2024-06-07 13:36:54,401:INFO:Application ended.
+2024-06-07 13:36:54,818:INFO:Application started.
+2024-06-07 13:36:54,823:INFO:Successfully connected to the database
+2024-06-07 13:36:54,824:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:36:54,847:INFO:Transaction data fetched successfully.
+2024-06-07 13:36:55,037:INFO:Application ended.
+2024-06-07 13:37:00,473:INFO:Application started.
+2024-06-07 13:37:00,480:INFO:Successfully connected to the database
+2024-06-07 13:37:00,483:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:37:00,500:INFO:Transaction data fetched successfully.
+2024-06-07 13:37:00,674:INFO:Application ended.
+2024-06-07 13:37:03,870:INFO:Application started.
+2024-06-07 13:37:03,876:INFO:Successfully connected to the database
+2024-06-07 13:37:03,879:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:37:03,894:INFO:Transaction data fetched successfully.
+2024-06-07 13:37:04,081:INFO:Application ended.
+2024-06-07 13:37:08,181:INFO:Application started.
+2024-06-07 13:37:08,187:INFO:Successfully connected to the database
+2024-06-07 13:37:08,190:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:37:08,216:INFO:Transaction data fetched successfully.
+2024-06-07 13:37:08,388:INFO:Application ended.
+2024-06-07 13:37:16,038:INFO:Application started.
+2024-06-07 13:37:16,044:INFO:Successfully connected to the database
+2024-06-07 13:37:16,045:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:37:16,072:INFO:Income added to database successfully.
+2024-06-07 13:37:16,082:INFO:Transaction data fetched successfully.
+2024-06-07 13:37:16,295:INFO:Application ended.
+2024-06-07 13:37:31,567:INFO:Application started.
+2024-06-07 13:37:31,572:INFO:Successfully connected to the database
+2024-06-07 13:37:31,574:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:37:31,591:INFO:Transaction data fetched successfully.
+2024-06-07 13:37:31,749:INFO:Application ended.
+2024-06-07 13:37:48,869:INFO:Application started.
+2024-06-07 13:37:48,874:INFO:Successfully connected to the database
+2024-06-07 13:37:48,875:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:37:48,895:INFO:Transaction data fetched successfully.
+2024-06-07 13:37:49,057:INFO:Application ended.
+2024-06-07 13:37:54,735:INFO:Application started.
+2024-06-07 13:37:54,739:INFO:Successfully connected to the database
+2024-06-07 13:37:54,741:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:37:54,760:INFO:Transaction data fetched successfully.
+2024-06-07 13:37:54,907:INFO:Application ended.
+2024-06-07 13:37:59,353:INFO:Application started.
+2024-06-07 13:37:59,360:INFO:Successfully connected to the database
+2024-06-07 13:37:59,361:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:37:59,382:INFO:Transaction data fetched successfully.
+2024-06-07 13:37:59,540:INFO:Application ended.
+2024-06-07 13:38:02,039:INFO:Application started.
+2024-06-07 13:38:02,043:INFO:Successfully connected to the database
+2024-06-07 13:38:02,045:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:38:02,066:INFO:Transaction data fetched successfully.
+2024-06-07 13:38:02,206:INFO:Application ended.
+2024-06-07 13:38:05,131:INFO:Application started.
+2024-06-07 13:38:05,137:INFO:Successfully connected to the database
+2024-06-07 13:38:05,140:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:38:05,159:INFO:Transaction data fetched successfully.
+2024-06-07 13:38:05,346:INFO:Application ended.
+2024-06-07 13:38:07,940:INFO:Application started.
+2024-06-07 13:38:07,943:INFO:Successfully connected to the database
+2024-06-07 13:38:07,945:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:38:07,965:INFO:Expense added to database successfully.
+2024-06-07 13:38:07,972:INFO:Transaction data fetched successfully.
+2024-06-07 13:38:08,141:INFO:Application ended.
+2024-06-07 13:38:40,431:INFO:Application started.
+2024-06-07 13:38:40,436:INFO:Successfully connected to the database
+2024-06-07 13:38:40,439:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:38:40,461:INFO:Transaction data fetched successfully.
+2024-06-07 13:38:40,621:INFO:Application ended.
+2024-06-07 13:38:44,927:INFO:Application started.
+2024-06-07 13:38:44,932:INFO:Successfully connected to the database
+2024-06-07 13:38:44,935:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:38:44,955:INFO:Transaction data fetched successfully.
+2024-06-07 13:38:45,154:INFO:Application ended.
+2024-06-07 13:39:07,726:INFO:Application started.
+2024-06-07 13:39:07,733:INFO:Successfully connected to the database
+2024-06-07 13:39:07,735:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:39:07,750:INFO:Transaction data fetched successfully.
+2024-06-07 13:39:07,957:INFO:Data exported successfully to transactions.csv
+2024-06-07 13:39:07,959:INFO:Application ended.
+2024-06-07 13:52:22,401:INFO:Application started.
+2024-06-07 13:52:22,407:INFO:Successfully connected to the database
+2024-06-07 13:52:22,410:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:52:22,437:INFO:Transaction data fetched successfully.
+2024-06-07 13:52:22,605:INFO:Application ended.
+2024-06-07 13:52:22,995:INFO:Application started.
+2024-06-07 13:52:23,002:INFO:Successfully connected to the database
+2024-06-07 13:52:23,006:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:52:23,023:INFO:Transaction data fetched successfully.
+2024-06-07 13:52:23,175:INFO:Application ended.
+2024-06-07 13:52:56,788:INFO:Application started.
+2024-06-07 13:52:59,515:INFO:Successfully connected to the database
+2024-06-07 13:52:59,521:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:52:59,571:INFO:Transaction data fetched successfully.
+2024-06-07 13:53:00,834:INFO:Application ended.
+2024-06-07 13:53:24,329:INFO:Application started.
+2024-06-07 13:53:24,338:INFO:Successfully connected to the database
+2024-06-07 13:53:24,341:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:53:24,360:INFO:Transaction data fetched successfully.
+2024-06-07 13:53:24,535:INFO:Application ended.
+2024-06-07 13:53:25,602:INFO:Application started.
+2024-06-07 13:53:25,608:INFO:Successfully connected to the database
+2024-06-07 13:53:25,611:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:53:25,633:INFO:Transaction data fetched successfully.
+2024-06-07 13:53:25,798:INFO:Application ended.
+2024-06-07 13:53:32,418:INFO:Application started.
+2024-06-07 13:53:32,425:INFO:Successfully connected to the database
+2024-06-07 13:53:32,428:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:53:32,447:INFO:Transaction data fetched successfully.
+2024-06-07 13:53:32,622:INFO:Application ended.
+2024-06-07 13:53:35,503:INFO:Application started.
+2024-06-07 13:53:35,508:INFO:Successfully connected to the database
+2024-06-07 13:53:35,510:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:53:35,526:INFO:Transaction data fetched successfully.
+2024-06-07 13:53:35,696:INFO:Application ended.
+2024-06-07 13:53:38,458:INFO:Application started.
+2024-06-07 13:53:38,464:INFO:Successfully connected to the database
+2024-06-07 13:53:38,466:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:53:38,485:INFO:Transaction data fetched successfully.
+2024-06-07 13:53:38,641:INFO:Application ended.
+2024-06-07 13:53:46,152:INFO:Application started.
+2024-06-07 13:53:46,156:INFO:Successfully connected to the database
+2024-06-07 13:53:46,158:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:53:46,183:INFO:Income added to database successfully.
+2024-06-07 13:53:46,190:INFO:Transaction data fetched successfully.
+2024-06-07 13:53:46,303:INFO:Application ended.
+2024-06-07 13:53:52,245:INFO:Application started.
+2024-06-07 13:53:52,251:INFO:Successfully connected to the database
+2024-06-07 13:53:52,253:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:53:52,267:INFO:Transaction data fetched successfully.
+2024-06-07 13:53:52,431:INFO:Application ended.
+2024-06-07 13:54:02,672:INFO:Application started.
+2024-06-07 13:54:02,677:INFO:Successfully connected to the database
+2024-06-07 13:54:02,679:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:54:02,699:INFO:Transaction data fetched successfully.
+2024-06-07 13:54:02,874:INFO:Application ended.
+2024-06-07 13:54:09,208:INFO:Application started.
+2024-06-07 13:54:09,211:INFO:Successfully connected to the database
+2024-06-07 13:54:09,212:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:54:09,233:INFO:Transaction data fetched successfully.
+2024-06-07 13:54:09,404:INFO:Application ended.
+2024-06-07 13:54:20,278:INFO:Application started.
+2024-06-07 13:54:20,280:INFO:Successfully connected to the database
+2024-06-07 13:54:20,283:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:54:20,295:INFO:Transaction data fetched successfully.
+2024-06-07 13:54:20,437:INFO:Application ended.
+2024-06-07 13:54:22,865:INFO:Application started.
+2024-06-07 13:54:22,871:INFO:Successfully connected to the database
+2024-06-07 13:54:22,873:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:54:22,895:INFO:Transaction data fetched successfully.
+2024-06-07 13:54:23,082:INFO:Application ended.
+2024-06-07 13:54:25,524:INFO:Application started.
+2024-06-07 13:54:25,528:INFO:Successfully connected to the database
+2024-06-07 13:54:25,530:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:54:25,550:INFO:Transaction data fetched successfully.
+2024-06-07 13:54:25,696:INFO:Application ended.
+2024-06-07 13:54:28,202:INFO:Application started.
+2024-06-07 13:54:28,207:INFO:Successfully connected to the database
+2024-06-07 13:54:28,208:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:54:28,236:INFO:Expense added to database successfully.
+2024-06-07 13:54:28,245:INFO:Transaction data fetched successfully.
+2024-06-07 13:54:28,429:INFO:Application ended.
+2024-06-07 13:54:58,305:INFO:Application started.
+2024-06-07 13:54:58,311:INFO:Successfully connected to the database
+2024-06-07 13:54:58,314:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:54:58,332:INFO:Transaction data fetched successfully.
+2024-06-07 13:54:58,492:INFO:Application ended.
+2024-06-07 13:55:21,934:INFO:Application started.
+2024-06-07 13:55:21,939:INFO:Successfully connected to the database
+2024-06-07 13:55:21,944:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 13:55:21,963:INFO:Transaction data fetched successfully.
+2024-06-07 13:55:22,195:INFO:Data exported successfully to transactions.csv
+2024-06-07 13:55:22,197:INFO:Application ended.
+2024-06-07 14:04:29,712:INFO:Application started.
+2024-06-07 14:04:31,400:INFO:Successfully connected to the database
+2024-06-07 14:04:31,402:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:04:31,421:INFO:Transaction data fetched successfully.
+2024-06-07 14:04:32,282:INFO:Application ended.
+2024-06-07 14:04:50,813:INFO:Application started.
+2024-06-07 14:04:50,820:INFO:Successfully connected to the database
+2024-06-07 14:04:50,823:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:04:50,842:INFO:Transaction data fetched successfully.
+2024-06-07 14:04:50,982:INFO:Application ended.
+2024-06-07 14:04:51,951:INFO:Application started.
+2024-06-07 14:04:51,958:INFO:Successfully connected to the database
+2024-06-07 14:04:51,961:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:04:51,979:INFO:Transaction data fetched successfully.
+2024-06-07 14:04:52,147:INFO:Application ended.
+2024-06-07 14:04:52,761:INFO:Application started.
+2024-06-07 14:04:52,767:INFO:Successfully connected to the database
+2024-06-07 14:04:52,769:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:04:52,789:INFO:Transaction data fetched successfully.
+2024-06-07 14:04:52,919:INFO:Application ended.
+2024-06-07 14:04:53,530:INFO:Application started.
+2024-06-07 14:04:53,536:INFO:Successfully connected to the database
+2024-06-07 14:04:53,538:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:04:53,558:INFO:Transaction data fetched successfully.
+2024-06-07 14:04:53,715:INFO:Application ended.
+2024-06-07 14:04:59,658:INFO:Application started.
+2024-06-07 14:04:59,663:INFO:Successfully connected to the database
+2024-06-07 14:04:59,666:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:04:59,683:INFO:Transaction data fetched successfully.
+2024-06-07 14:04:59,826:INFO:Application ended.
+2024-06-07 14:05:05,785:INFO:Application started.
+2024-06-07 14:05:05,789:INFO:Successfully connected to the database
+2024-06-07 14:05:05,791:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:05:05,803:INFO:Transaction data fetched successfully.
+2024-06-07 14:05:05,930:INFO:Application ended.
+2024-06-07 14:06:12,177:INFO:Application started.
+2024-06-07 14:06:12,179:INFO:Successfully connected to the database
+2024-06-07 14:06:12,179:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:06:12,185:INFO:Transaction data fetched successfully.
+2024-06-07 14:06:12,226:INFO:Application ended.
+2024-06-07 14:08:50,088:INFO:Application started.
+2024-06-07 14:08:50,384:INFO:Successfully connected to the database
+2024-06-07 14:08:50,385:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:08:50,391:INFO:Transaction data fetched successfully.
+2024-06-07 14:08:50,609:INFO:Application ended.
+2024-06-07 14:09:14,580:INFO:Application started.
+2024-06-07 14:09:14,588:INFO:Successfully connected to the database
+2024-06-07 14:09:14,591:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:09:14,608:INFO:Transaction data fetched successfully.
+2024-06-07 14:09:14,809:INFO:Application ended.
+2024-06-07 14:09:17,478:INFO:Application started.
+2024-06-07 14:09:17,482:INFO:Successfully connected to the database
+2024-06-07 14:09:17,485:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:09:17,499:INFO:Transaction data fetched successfully.
+2024-06-07 14:09:17,642:INFO:Application ended.
+2024-06-07 14:09:20,876:INFO:Application started.
+2024-06-07 14:09:20,882:INFO:Successfully connected to the database
+2024-06-07 14:09:20,884:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:09:20,902:INFO:Transaction data fetched successfully.
+2024-06-07 14:09:21,069:INFO:Application ended.
+2024-06-07 14:09:29,462:INFO:Application started.
+2024-06-07 14:09:29,469:INFO:Successfully connected to the database
+2024-06-07 14:09:29,471:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:09:29,495:INFO:Income added to database successfully.
+2024-06-07 14:09:29,505:INFO:Transaction data fetched successfully.
+2024-06-07 14:09:29,670:INFO:Application ended.
+2024-06-07 14:09:37,889:INFO:Application started.
+2024-06-07 14:09:37,895:INFO:Successfully connected to the database
+2024-06-07 14:09:37,897:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:09:37,916:INFO:Transaction data fetched successfully.
+2024-06-07 14:09:38,064:INFO:Application ended.
+2024-06-07 14:09:42,418:INFO:Application started.
+2024-06-07 14:09:42,420:INFO:Successfully connected to the database
+2024-06-07 14:09:42,424:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:09:42,441:INFO:Transaction data fetched successfully.
+2024-06-07 14:09:42,584:INFO:Application ended.
+2024-06-07 14:09:52,533:INFO:Application started.
+2024-06-07 14:09:52,541:INFO:Successfully connected to the database
+2024-06-07 14:09:52,544:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:09:52,562:INFO:Transaction data fetched successfully.
+2024-06-07 14:09:52,695:INFO:Application ended.
+2024-06-07 14:09:56,048:INFO:Application started.
+2024-06-07 14:09:56,053:INFO:Successfully connected to the database
+2024-06-07 14:09:56,056:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:09:56,075:INFO:Transaction data fetched successfully.
+2024-06-07 14:09:56,217:INFO:Application ended.
+2024-06-07 14:10:04,055:INFO:Application started.
+2024-06-07 14:10:04,061:INFO:Successfully connected to the database
+2024-06-07 14:10:04,063:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:10:04,080:INFO:Transaction data fetched successfully.
+2024-06-07 14:10:04,222:INFO:Application ended.
+2024-06-07 14:10:07,504:INFO:Application started.
+2024-06-07 14:10:07,508:INFO:Successfully connected to the database
+2024-06-07 14:10:07,508:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:10:07,525:INFO:Transaction data fetched successfully.
+2024-06-07 14:10:07,635:INFO:Application ended.
+2024-06-07 14:10:12,146:INFO:Application started.
+2024-06-07 14:10:12,151:INFO:Successfully connected to the database
+2024-06-07 14:10:12,154:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:10:12,171:INFO:Transaction data fetched successfully.
+2024-06-07 14:10:12,310:INFO:Application ended.
+2024-06-07 14:10:15,810:INFO:Application started.
+2024-06-07 14:10:15,816:INFO:Successfully connected to the database
+2024-06-07 14:10:15,818:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:10:15,843:INFO:Expense added to database successfully.
+2024-06-07 14:10:15,854:INFO:Transaction data fetched successfully.
+2024-06-07 14:10:15,981:INFO:Application ended.
+2024-06-07 14:10:41,103:INFO:Application started.
+2024-06-07 14:10:41,106:INFO:Successfully connected to the database
+2024-06-07 14:10:41,108:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:10:41,124:INFO:Transaction data fetched successfully.
+2024-06-07 14:10:41,261:INFO:Application ended.
+2024-06-07 14:10:58,333:INFO:Application started.
+2024-06-07 14:10:58,340:INFO:Successfully connected to the database
+2024-06-07 14:10:58,343:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:10:58,362:INFO:Transaction data fetched successfully.
+2024-06-07 14:10:58,529:INFO:Data exported successfully to transactions.csv
+2024-06-07 14:10:58,530:INFO:Application ended.
+2024-06-07 14:15:20,549:INFO:Application started.
+2024-06-07 14:15:20,552:INFO:Successfully connected to the database
+2024-06-07 14:15:20,552:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:15:20,560:INFO:Transaction data fetched successfully.
+2024-06-07 14:15:20,598:INFO:Application ended.
+2024-06-07 14:15:23,905:INFO:Application started.
+2024-06-07 14:15:23,907:INFO:Successfully connected to the database
+2024-06-07 14:15:23,907:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:15:23,913:INFO:Transaction data fetched successfully.
+2024-06-07 14:15:23,946:INFO:Application ended.
+2024-06-07 14:16:57,867:INFO:Application started.
+2024-06-07 14:17:00,466:INFO:Successfully connected to the database
+2024-06-07 14:17:00,471:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:17:00,500:INFO:Transaction data fetched successfully.
+2024-06-07 14:17:01,844:INFO:Application ended.
+2024-06-07 14:17:13,478:INFO:Application started.
+2024-06-07 14:17:13,483:INFO:Successfully connected to the database
+2024-06-07 14:17:13,484:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:17:13,507:INFO:Transaction data fetched successfully.
+2024-06-07 14:17:13,667:INFO:Application ended.
+2024-06-07 14:17:14,113:INFO:Application started.
+2024-06-07 14:17:14,119:INFO:Successfully connected to the database
+2024-06-07 14:17:14,123:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:17:14,137:INFO:Transaction data fetched successfully.
+2024-06-07 14:17:14,280:INFO:Application ended.
+2024-06-07 14:17:19,431:INFO:Application started.
+2024-06-07 14:17:19,437:INFO:Successfully connected to the database
+2024-06-07 14:17:19,438:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:17:19,452:INFO:Transaction data fetched successfully.
+2024-06-07 14:17:19,593:INFO:Application ended.
+2024-06-07 14:17:21,665:INFO:Application started.
+2024-06-07 14:17:21,670:INFO:Successfully connected to the database
+2024-06-07 14:17:21,672:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:17:21,683:INFO:Transaction data fetched successfully.
+2024-06-07 14:17:21,824:INFO:Application ended.
+2024-06-07 14:17:25,776:INFO:Application started.
+2024-06-07 14:17:25,781:INFO:Successfully connected to the database
+2024-06-07 14:17:25,784:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:17:25,806:INFO:Transaction data fetched successfully.
+2024-06-07 14:17:25,973:INFO:Application ended.
+2024-06-07 14:17:31,674:INFO:Application started.
+2024-06-07 14:17:31,681:INFO:Successfully connected to the database
+2024-06-07 14:17:31,682:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:17:31,704:INFO:Income added to database successfully.
+2024-06-07 14:17:31,712:INFO:Transaction data fetched successfully.
+2024-06-07 14:17:31,855:INFO:Application ended.
+2024-06-07 14:17:41,667:INFO:Application started.
+2024-06-07 14:17:41,674:INFO:Successfully connected to the database
+2024-06-07 14:17:41,676:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:17:41,693:INFO:Transaction data fetched successfully.
+2024-06-07 14:17:41,870:INFO:Application ended.
+2024-06-07 14:17:47,470:INFO:Application started.
+2024-06-07 14:17:47,474:INFO:Successfully connected to the database
+2024-06-07 14:17:47,478:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:17:47,497:INFO:Transaction data fetched successfully.
+2024-06-07 14:17:47,646:INFO:Application ended.
+2024-06-07 14:17:53,729:INFO:Application started.
+2024-06-07 14:17:53,734:INFO:Successfully connected to the database
+2024-06-07 14:17:53,736:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:17:53,759:INFO:Transaction data fetched successfully.
+2024-06-07 14:17:53,947:INFO:Application ended.
+2024-06-07 14:17:59,307:INFO:Application started.
+2024-06-07 14:17:59,315:INFO:Successfully connected to the database
+2024-06-07 14:17:59,321:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:17:59,346:INFO:Transaction data fetched successfully.
+2024-06-07 14:17:59,525:INFO:Application ended.
+2024-06-07 14:18:01,857:INFO:Application started.
+2024-06-07 14:18:01,861:INFO:Successfully connected to the database
+2024-06-07 14:18:01,864:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:18:01,876:INFO:Transaction data fetched successfully.
+2024-06-07 14:18:02,054:INFO:Application ended.
+2024-06-07 14:18:04,788:INFO:Application started.
+2024-06-07 14:18:04,794:INFO:Successfully connected to the database
+2024-06-07 14:18:04,797:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:18:04,814:INFO:Transaction data fetched successfully.
+2024-06-07 14:18:04,991:INFO:Application ended.
+2024-06-07 14:18:06,988:INFO:Application started.
+2024-06-07 14:18:06,991:INFO:Successfully connected to the database
+2024-06-07 14:18:06,993:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:18:07,014:INFO:Expense added to database successfully.
+2024-06-07 14:18:07,023:INFO:Transaction data fetched successfully.
+2024-06-07 14:18:07,132:INFO:Application ended.
+2024-06-07 14:18:36,330:INFO:Application started.
+2024-06-07 14:18:36,335:INFO:Successfully connected to the database
+2024-06-07 14:18:36,337:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:18:36,350:INFO:Transaction data fetched successfully.
+2024-06-07 14:18:36,495:INFO:Application ended.
+2024-06-07 14:18:56,455:INFO:Application started.
+2024-06-07 14:18:56,460:INFO:Successfully connected to the database
+2024-06-07 14:18:56,463:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:18:56,481:INFO:Transaction data fetched successfully.
+2024-06-07 14:18:56,675:INFO:Data exported successfully to transactions.csv
+2024-06-07 14:18:56,677:INFO:Application ended.
+2024-06-07 14:31:10,883:INFO:Application started.
+2024-06-07 14:31:10,887:INFO:Successfully connected to the database
+2024-06-07 14:31:10,887:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:31:10,895:INFO:Transaction data fetched successfully.
+2024-06-07 14:31:10,927:INFO:Application ended.
+2024-06-07 14:33:09,301:INFO:Application started.
+2024-06-07 14:33:12,201:INFO:Successfully connected to the database
+2024-06-07 14:33:12,206:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:33:12,239:INFO:Transaction data fetched successfully.
+2024-06-07 14:33:13,370:INFO:Application ended.
+2024-06-07 14:33:24,616:INFO:Application started.
+2024-06-07 14:33:24,622:INFO:Successfully connected to the database
+2024-06-07 14:33:24,624:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:33:24,641:INFO:Transaction data fetched successfully.
+2024-06-07 14:33:24,746:INFO:Application ended.
+2024-06-07 14:33:25,809:INFO:Application started.
+2024-06-07 14:33:25,815:INFO:Successfully connected to the database
+2024-06-07 14:33:25,819:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:33:25,839:INFO:Transaction data fetched successfully.
+2024-06-07 14:33:26,015:INFO:Application ended.
+2024-06-07 14:33:32,839:INFO:Application started.
+2024-06-07 14:33:32,846:INFO:Successfully connected to the database
+2024-06-07 14:33:32,849:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:33:32,863:INFO:Transaction data fetched successfully.
+2024-06-07 14:33:33,026:INFO:Application ended.
+2024-06-07 14:33:35,996:INFO:Application started.
+2024-06-07 14:33:36,002:INFO:Successfully connected to the database
+2024-06-07 14:33:36,004:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:33:36,024:INFO:Transaction data fetched successfully.
+2024-06-07 14:33:36,191:INFO:Application ended.
+2024-06-07 14:33:38,636:INFO:Application started.
+2024-06-07 14:33:38,642:INFO:Successfully connected to the database
+2024-06-07 14:33:38,645:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:33:38,660:INFO:Transaction data fetched successfully.
+2024-06-07 14:33:38,807:INFO:Application ended.
+2024-06-07 14:33:44,964:INFO:Application started.
+2024-06-07 14:33:44,970:INFO:Successfully connected to the database
+2024-06-07 14:33:44,971:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:33:44,995:INFO:Income added to database successfully.
+2024-06-07 14:33:45,004:INFO:Transaction data fetched successfully.
+2024-06-07 14:33:45,156:INFO:Application ended.
+2024-06-07 14:34:00,670:INFO:Application started.
+2024-06-07 14:34:00,674:INFO:Successfully connected to the database
+2024-06-07 14:34:00,676:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:34:00,687:INFO:Transaction data fetched successfully.
+2024-06-07 14:34:00,808:INFO:Application ended.
+2024-06-07 14:34:07,439:INFO:Application started.
+2024-06-07 14:34:07,444:INFO:Successfully connected to the database
+2024-06-07 14:34:07,446:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:34:07,466:INFO:Transaction data fetched successfully.
+2024-06-07 14:34:07,606:INFO:Application ended.
+2024-06-07 14:34:14,707:INFO:Application started.
+2024-06-07 14:34:14,712:INFO:Successfully connected to the database
+2024-06-07 14:34:14,715:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:34:14,731:INFO:Transaction data fetched successfully.
+2024-06-07 14:34:14,887:INFO:Application ended.
+2024-06-07 14:34:21,217:INFO:Application started.
+2024-06-07 14:34:21,228:INFO:Successfully connected to the database
+2024-06-07 14:34:21,233:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:34:21,258:INFO:Transaction data fetched successfully.
+2024-06-07 14:34:21,398:INFO:Application ended.
+2024-06-07 14:34:23,181:INFO:Application started.
+2024-06-07 14:34:23,187:INFO:Successfully connected to the database
+2024-06-07 14:34:23,190:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:34:23,207:INFO:Transaction data fetched successfully.
+2024-06-07 14:34:23,379:INFO:Application ended.
+2024-06-07 14:34:27,344:INFO:Application started.
+2024-06-07 14:34:27,348:INFO:Successfully connected to the database
+2024-06-07 14:34:27,352:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:34:27,370:INFO:Transaction data fetched successfully.
+2024-06-07 14:34:27,535:INFO:Application ended.
+2024-06-07 14:34:29,570:INFO:Application started.
+2024-06-07 14:34:29,575:INFO:Successfully connected to the database
+2024-06-07 14:34:29,576:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:34:29,601:INFO:Expense added to database successfully.
+2024-06-07 14:34:29,607:INFO:Transaction data fetched successfully.
+2024-06-07 14:34:29,772:INFO:Application ended.
+2024-06-07 14:34:54,387:INFO:Application started.
+2024-06-07 14:34:54,392:INFO:Successfully connected to the database
+2024-06-07 14:34:54,395:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:34:54,412:INFO:Transaction data fetched successfully.
+2024-06-07 14:34:54,570:INFO:Application ended.
+2024-06-07 14:35:10,961:INFO:Application started.
+2024-06-07 14:35:10,965:INFO:Successfully connected to the database
+2024-06-07 14:35:10,967:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:35:10,989:INFO:Transaction data fetched successfully.
+2024-06-07 14:35:11,189:INFO:Data exported successfully to transactions.csv
+2024-06-07 14:35:11,190:INFO:Application ended.
+2024-06-07 14:40:37,330:INFO:Application started.
+2024-06-07 14:40:37,332:INFO:Successfully connected to the database
+2024-06-07 14:40:37,333:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:40:37,345:INFO:Transaction data fetched successfully.
+2024-06-07 14:40:37,433:INFO:Application ended.
+2024-06-07 14:40:40,853:INFO:Application started.
+2024-06-07 14:40:40,858:INFO:Successfully connected to the database
+2024-06-07 14:40:40,860:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:40:40,879:INFO:Transaction data fetched successfully.
+2024-06-07 14:40:41,060:INFO:Application ended.
+2024-06-07 14:40:52,190:INFO:Application started.
+2024-06-07 14:40:52,193:INFO:Successfully connected to the database
+2024-06-07 14:40:52,197:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:40:52,212:INFO:Transaction data fetched successfully.
+2024-06-07 14:40:52,357:INFO:Application ended.
+2024-06-07 14:41:57,082:INFO:Application started.
+2024-06-07 14:41:57,088:INFO:Successfully connected to the database
+2024-06-07 14:41:57,090:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:41:57,110:INFO:Transaction data fetched successfully.
+2024-06-07 14:41:57,270:INFO:Application ended.
+2024-06-07 14:41:58,367:INFO:Application started.
+2024-06-07 14:41:58,372:INFO:Successfully connected to the database
+2024-06-07 14:41:58,375:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:41:58,392:INFO:Transaction data fetched successfully.
+2024-06-07 14:41:58,577:INFO:Application ended.
+2024-06-07 14:42:29,005:INFO:Application started.
+2024-06-07 14:42:31,275:INFO:Successfully connected to the database
+2024-06-07 14:42:31,279:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:42:31,309:INFO:Transaction data fetched successfully.
+2024-06-07 14:42:32,341:INFO:Application ended.
+2024-06-07 14:42:48,242:INFO:Application started.
+2024-06-07 14:42:48,248:INFO:Successfully connected to the database
+2024-06-07 14:42:48,251:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:42:48,268:INFO:Transaction data fetched successfully.
+2024-06-07 14:42:48,444:INFO:Application ended.
+2024-06-07 14:42:49,140:INFO:Application started.
+2024-06-07 14:42:49,144:INFO:Successfully connected to the database
+2024-06-07 14:42:49,146:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:42:49,169:INFO:Transaction data fetched successfully.
+2024-06-07 14:42:49,365:INFO:Application ended.
+2024-06-07 14:42:52,360:INFO:Application started.
+2024-06-07 14:42:52,366:INFO:Successfully connected to the database
+2024-06-07 14:42:52,369:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:42:52,390:INFO:Transaction data fetched successfully.
+2024-06-07 14:42:52,567:INFO:Application ended.
+2024-06-07 14:42:55,671:INFO:Application started.
+2024-06-07 14:42:55,678:INFO:Successfully connected to the database
+2024-06-07 14:42:55,680:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:42:55,702:INFO:Transaction data fetched successfully.
+2024-06-07 14:42:55,872:INFO:Application ended.
+2024-06-07 14:42:59,266:INFO:Application started.
+2024-06-07 14:42:59,268:INFO:Successfully connected to the database
+2024-06-07 14:42:59,270:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:42:59,290:INFO:Transaction data fetched successfully.
+2024-06-07 14:42:59,449:INFO:Application ended.
+2024-06-07 14:43:09,158:INFO:Application started.
+2024-06-07 14:43:09,162:INFO:Successfully connected to the database
+2024-06-07 14:43:09,165:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:43:09,187:INFO:Income added to database successfully.
+2024-06-07 14:43:09,196:INFO:Transaction data fetched successfully.
+2024-06-07 14:43:09,370:INFO:Application ended.
+2024-06-07 14:43:20,698:INFO:Application started.
+2024-06-07 14:43:20,703:INFO:Successfully connected to the database
+2024-06-07 14:43:20,706:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:43:20,724:INFO:Transaction data fetched successfully.
+2024-06-07 14:43:20,892:INFO:Application ended.
+2024-06-07 14:43:34,158:INFO:Application started.
+2024-06-07 14:43:34,164:INFO:Successfully connected to the database
+2024-06-07 14:43:34,167:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:43:34,183:INFO:Transaction data fetched successfully.
+2024-06-07 14:43:34,317:INFO:Application ended.
+2024-06-07 14:43:41,143:INFO:Application started.
+2024-06-07 14:43:41,146:INFO:Successfully connected to the database
+2024-06-07 14:43:41,148:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:43:41,159:INFO:Transaction data fetched successfully.
+2024-06-07 14:43:41,335:INFO:Application ended.
+2024-06-07 14:43:44,498:INFO:Application started.
+2024-06-07 14:43:44,504:INFO:Successfully connected to the database
+2024-06-07 14:43:44,506:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:43:44,523:INFO:Transaction data fetched successfully.
+2024-06-07 14:43:44,678:INFO:Application ended.
+2024-06-07 14:43:46,994:INFO:Application started.
+2024-06-07 14:43:47,000:INFO:Successfully connected to the database
+2024-06-07 14:43:47,005:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:43:47,030:INFO:Transaction data fetched successfully.
+2024-06-07 14:43:47,184:INFO:Application ended.
+2024-06-07 14:43:50,807:INFO:Application started.
+2024-06-07 14:43:50,813:INFO:Successfully connected to the database
+2024-06-07 14:43:50,816:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:43:50,845:INFO:Expense added to database successfully.
+2024-06-07 14:43:50,856:INFO:Transaction data fetched successfully.
+2024-06-07 14:43:51,059:INFO:Application ended.
+2024-06-07 14:44:16,957:INFO:Application started.
+2024-06-07 14:44:16,963:INFO:Successfully connected to the database
+2024-06-07 14:44:16,966:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:44:16,989:INFO:Transaction data fetched successfully.
+2024-06-07 14:44:17,134:INFO:Application ended.
+2024-06-07 14:44:38,601:INFO:Application started.
+2024-06-07 14:44:38,607:INFO:Successfully connected to the database
+2024-06-07 14:44:38,609:INFO:Query executed successfully: 
+        CREATE TABLE IF NOT EXISTS transactions (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            type TEXT NOT NULL,
+            category TEXT NOT NULL,
+            amount REAL NOT NULL,
+            date TEXT NOT NULL,
+            description TEXT
+        );
+        
+2024-06-07 14:44:38,632:INFO:Transaction data fetched successfully.
+2024-06-07 14:44:38,797:INFO:Data exported successfully to transactions.csv
+2024-06-07 14:44:38,799:INFO:Application ended.
