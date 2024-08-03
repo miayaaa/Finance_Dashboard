@@ -30,8 +30,3 @@ In the project directory, you will find the following files:
 - `requirements.txt`: Lists all the dependencies.
 - `utils.py`: Utility functions for data validation.
 - `log`: Daily log records files.
-
-## Detailed Report
-
-For a detailed explanation of this project, including the development process, successes and challenges, 
-and future developments, please refer to the **Personal Finance Dashboard Report**.
